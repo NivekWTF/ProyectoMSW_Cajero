@@ -1,18 +1,19 @@
-## Getting Started
+## Proyecto Mantenimiento de Software
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+### Tecnológico Nacional de México
+### Instituto Tecnológico de Culiacán
+Carrera: Ingeniería en Sistemas Computacionales
+### Profesor (a): Sosa Ochoa Catalina de la luz
+### Materia: Mantenimiento de Software
 
-## Folder Structure
+### Unidad 4
+#### Tema: Configuración y mantenimiento de software
 
-The workspace contains two folders by default, where:
+## Integrantes:
+Abitia Castro Luis Ángel
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Serrano Gallardo Kevin Ricardo
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Hora de clase: 14:00-15:00 PM
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Fecha: 06/12/2023
