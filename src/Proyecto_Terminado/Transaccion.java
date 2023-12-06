@@ -5,7 +5,7 @@ import java.util.Date;
 public abstract class Transaccion {
     private int id;
     private Date fecha;
-    private int Tipo; //1:Retiro :: 2: Transferencia
+    private int Tipo; // 1: Retiro - 2: Transferencia
     private double monto;
 
     public Transaccion(int id, Date fecha, int tipo, double monto) {
