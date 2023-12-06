@@ -1,6 +1,7 @@
 package Proyecto_Terminado;
 
 import java.util.Scanner;
+
 public abstract class Clase_Abstractaa {
 	String numero_cuenta;
     protected int transacciones, retiro, deposito,transferencia;
